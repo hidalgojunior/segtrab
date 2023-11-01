@@ -1,0 +1,43 @@
+*{
+    font-family: Montserrat;
+}
+.projeto{
+    background-color: #1e1e1e;
+    color:#fff;
+    padding: 20px;
+}
+.projeto h1{
+    font-weight: bolder;
+    text-align: center;
+}
+.projeto p{
+    font-width: ligther;
+    text-align: center;
+}
+
+.rodape{
+    font-weight: light;
+    font-size: 10px;
+    text-align: center;
+    background-color: #1e1e1e;
+    color: white;
+}
+.pagina{
+    padding: 20px;
+}
+.pagina h1
+{
+    padding-left: 10px;
+    background-color: #1e1e1e;
+    color:white;
+    font-size: 20px;
+}
+
+.pagina p{
+    text-align: justify;
+    font-size: 12px;
+    letter-spacing: 2px;
+    background-color: white;
+    color:#1e1e1e;
+}
+
